@@ -1,5 +1,5 @@
-## Hi I'm Claire, a Software Developer :wave:
+## Hi I'm Claire, a Software Engineer :wave:
 
 * Currently studying CS at uWaterloo and BBA at Wilfrid Laurier
-* Enjoys olympic lifting and cat memes :cat2:
+* Enjoys powerlifting, hiking, and cat memes :cat2:
 * Personal trainer at the uWaterloo gym :muscle:
